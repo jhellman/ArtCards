@@ -12,20 +12,25 @@
 		B43E186316A9E19A00330DC7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B43E186216A9E19A00330DC7 /* CoreGraphics.framework */; };
 		B43E186916A9E19A00330DC7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B43E186716A9E19A00330DC7 /* InfoPlist.strings */; };
 		B43E186B16A9E19A00330DC7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B43E186A16A9E19A00330DC7 /* main.m */; };
-		B43E186F16A9E19A00330DC7 /* SDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B43E186E16A9E19A00330DC7 /* SDAppDelegate.m */; };
 		B43E187116A9E19A00330DC7 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B43E187016A9E19A00330DC7 /* Default.png */; };
 		B43E187316A9E19A00330DC7 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B43E187216A9E19A00330DC7 /* Default@2x.png */; };
 		B43E187516A9E19A00330DC7 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B43E187416A9E19A00330DC7 /* Default-568h@2x.png */; };
-		B43E187816A9E19A00330DC7 /* SDFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B43E187716A9E19A00330DC7 /* SDFirstViewController.m */; };
-		B43E187A16A9E19A00330DC7 /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = B43E187916A9E19A00330DC7 /* first.png */; };
-		B43E187C16A9E19A00330DC7 /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B43E187B16A9E19A00330DC7 /* first@2x.png */; };
-		B43E187F16A9E19A00330DC7 /* SDSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B43E187E16A9E19A00330DC7 /* SDSecondViewController.m */; };
-		B43E188116A9E19A00330DC7 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = B43E188016A9E19A00330DC7 /* second.png */; };
-		B43E188316A9E19A00330DC7 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B43E188216A9E19A00330DC7 /* second@2x.png */; };
-		B43E188616A9E19A00330DC7 /* SDFirstViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = B43E188416A9E19A00330DC7 /* SDFirstViewController_iPhone.xib */; };
-		B43E188916A9E19A00330DC7 /* SDFirstViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = B43E188716A9E19A00330DC7 /* SDFirstViewController_iPad.xib */; };
-		B43E188C16A9E19A00330DC7 /* SDSecondViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = B43E188A16A9E19A00330DC7 /* SDSecondViewController_iPhone.xib */; };
-		B43E188F16A9E19A00330DC7 /* SDSecondViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = B43E188D16A9E19A00330DC7 /* SDSecondViewController_iPad.xib */; };
+		B455765716A9E20600ECFF89 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B455765616A9E20600ECFF89 /* CoreLocation.framework */; };
+		B455765916A9E21800ECFF89 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B455765816A9E21800ECFF89 /* MessageUI.framework */; };
+		B455765B16A9E21F00ECFF89 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B455765A16A9E21F00ECFF89 /* MapKit.framework */; };
+		B455766F16A9E24500ECFF89 /* SDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B455765D16A9E24500ECFF89 /* SDAppDelegate.m */; };
+		B455767016A9E24500ECFF89 /* ArtistManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B455765F16A9E24500ECFF89 /* ArtistManager.m */; };
+		B455767116A9E24500ECFF89 /* MapStopsController.m in Sources */ = {isa = PBXBuildFile; fileRef = B455766116A9E24500ECFF89 /* MapStopsController.m */; };
+		B455767216A9E24500ECFF89 /* MapStopsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B455766216A9E24500ECFF89 /* MapStopsController.xib */; };
+		B455767316A9E24500ECFF89 /* MediaController.m in Sources */ = {isa = PBXBuildFile; fileRef = B455766416A9E24500ECFF89 /* MediaController.m */; };
+		B455767416A9E24500ECFF89 /* MediaController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B455766516A9E24500ECFF89 /* MediaController.xib */; };
+		B455767516A9E24500ECFF89 /* Artist.m in Sources */ = {isa = PBXBuildFile; fileRef = B455766716A9E24500ECFF89 /* Artist.m */; };
+		B455767616A9E24500ECFF89 /* ArtCardsController.m in Sources */ = {isa = PBXBuildFile; fileRef = B455766916A9E24500ECFF89 /* ArtCardsController.m */; };
+		B455767716A9E24500ECFF89 /* ArtCardsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B455766A16A9E24500ECFF89 /* ArtCardsController.xib */; };
+		B455767816A9E24500ECFF89 /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = B455766B16A9E24500ECFF89 /* first.png */; };
+		B455767916A9E24500ECFF89 /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B455766C16A9E24500ECFF89 /* first@2x.png */; };
+		B455767A16A9E24500ECFF89 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = B455766D16A9E24500ECFF89 /* second.png */; };
+		B455767B16A9E24500ECFF89 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B455766E16A9E24500ECFF89 /* second@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,23 +42,31 @@
 		B43E186816A9E19A00330DC7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B43E186A16A9E19A00330DC7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B43E186C16A9E19A00330DC7 /* ArtCards-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ArtCards-Prefix.pch"; sourceTree = "<group>"; };
-		B43E186D16A9E19A00330DC7 /* SDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SDAppDelegate.h; sourceTree = "<group>"; };
-		B43E186E16A9E19A00330DC7 /* SDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SDAppDelegate.m; sourceTree = "<group>"; };
 		B43E187016A9E19A00330DC7 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		B43E187216A9E19A00330DC7 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		B43E187416A9E19A00330DC7 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		B43E187616A9E19A00330DC7 /* SDFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SDFirstViewController.h; sourceTree = "<group>"; };
-		B43E187716A9E19A00330DC7 /* SDFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SDFirstViewController.m; sourceTree = "<group>"; };
-		B43E187916A9E19A00330DC7 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
-		B43E187B16A9E19A00330DC7 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		B43E187D16A9E19A00330DC7 /* SDSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SDSecondViewController.h; sourceTree = "<group>"; };
-		B43E187E16A9E19A00330DC7 /* SDSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SDSecondViewController.m; sourceTree = "<group>"; };
-		B43E188016A9E19A00330DC7 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
-		B43E188216A9E19A00330DC7 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
-		B43E188516A9E19A00330DC7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SDFirstViewController_iPhone.xib; sourceTree = "<group>"; };
-		B43E188816A9E19A00330DC7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SDFirstViewController_iPad.xib; sourceTree = "<group>"; };
-		B43E188B16A9E19A00330DC7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SDSecondViewController_iPhone.xib; sourceTree = "<group>"; };
-		B43E188E16A9E19A00330DC7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SDSecondViewController_iPad.xib; sourceTree = "<group>"; };
+		B455765616A9E20600ECFF89 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		B455765816A9E21800ECFF89 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		B455765A16A9E21F00ECFF89 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		B455765C16A9E24500ECFF89 /* SDAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDAppDelegate.h; sourceTree = "<group>"; };
+		B455765D16A9E24500ECFF89 /* SDAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDAppDelegate.m; sourceTree = "<group>"; };
+		B455765E16A9E24500ECFF89 /* ArtistManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArtistManager.h; sourceTree = "<group>"; };
+		B455765F16A9E24500ECFF89 /* ArtistManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArtistManager.m; sourceTree = "<group>"; };
+		B455766016A9E24500ECFF89 /* MapStopsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapStopsController.h; sourceTree = "<group>"; };
+		B455766116A9E24500ECFF89 /* MapStopsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapStopsController.m; sourceTree = "<group>"; };
+		B455766216A9E24500ECFF89 /* MapStopsController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MapStopsController.xib; sourceTree = "<group>"; };
+		B455766316A9E24500ECFF89 /* MediaController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MediaController.h; sourceTree = "<group>"; };
+		B455766416A9E24500ECFF89 /* MediaController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MediaController.m; sourceTree = "<group>"; };
+		B455766516A9E24500ECFF89 /* MediaController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MediaController.xib; sourceTree = "<group>"; };
+		B455766616A9E24500ECFF89 /* Artist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Artist.h; sourceTree = "<group>"; };
+		B455766716A9E24500ECFF89 /* Artist.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Artist.m; sourceTree = "<group>"; };
+		B455766816A9E24500ECFF89 /* ArtCardsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArtCardsController.h; sourceTree = "<group>"; };
+		B455766916A9E24500ECFF89 /* ArtCardsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArtCardsController.m; sourceTree = "<group>"; };
+		B455766A16A9E24500ECFF89 /* ArtCardsController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ArtCardsController.xib; sourceTree = "<group>"; };
+		B455766B16A9E24500ECFF89 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
+		B455766C16A9E24500ECFF89 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
+		B455766D16A9E24500ECFF89 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
+		B455766E16A9E24500ECFF89 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +77,9 @@
 				B43E185F16A9E19A00330DC7 /* UIKit.framework in Frameworks */,
 				B43E186116A9E19A00330DC7 /* Foundation.framework in Frameworks */,
 				B43E186316A9E19A00330DC7 /* CoreGraphics.framework in Frameworks */,
+				B455765716A9E20600ECFF89 /* CoreLocation.framework in Frameworks */,
+				B455765916A9E21800ECFF89 /* MessageUI.framework in Frameworks */,
+				B455765B16A9E21F00ECFF89 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,6 +106,9 @@
 		B43E185D16A9E19A00330DC7 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B455765A16A9E21F00ECFF89 /* MapKit.framework */,
+				B455765816A9E21800ECFF89 /* MessageUI.framework */,
+				B455765616A9E20600ECFF89 /* CoreLocation.framework */,
 				B43E185E16A9E19A00330DC7 /* UIKit.framework */,
 				B43E186016A9E19A00330DC7 /* Foundation.framework */,
 				B43E186216A9E19A00330DC7 /* CoreGraphics.framework */,
@@ -100,20 +119,25 @@
 		B43E186416A9E19A00330DC7 /* ArtCards */ = {
 			isa = PBXGroup;
 			children = (
-				B43E186D16A9E19A00330DC7 /* SDAppDelegate.h */,
-				B43E186E16A9E19A00330DC7 /* SDAppDelegate.m */,
-				B43E187616A9E19A00330DC7 /* SDFirstViewController.h */,
-				B43E187716A9E19A00330DC7 /* SDFirstViewController.m */,
-				B43E187916A9E19A00330DC7 /* first.png */,
-				B43E187B16A9E19A00330DC7 /* first@2x.png */,
-				B43E187D16A9E19A00330DC7 /* SDSecondViewController.h */,
-				B43E187E16A9E19A00330DC7 /* SDSecondViewController.m */,
-				B43E188016A9E19A00330DC7 /* second.png */,
-				B43E188216A9E19A00330DC7 /* second@2x.png */,
-				B43E188416A9E19A00330DC7 /* SDFirstViewController_iPhone.xib */,
-				B43E188716A9E19A00330DC7 /* SDFirstViewController_iPad.xib */,
-				B43E188A16A9E19A00330DC7 /* SDSecondViewController_iPhone.xib */,
-				B43E188D16A9E19A00330DC7 /* SDSecondViewController_iPad.xib */,
+				B455765C16A9E24500ECFF89 /* SDAppDelegate.h */,
+				B455765D16A9E24500ECFF89 /* SDAppDelegate.m */,
+				B455765E16A9E24500ECFF89 /* ArtistManager.h */,
+				B455765F16A9E24500ECFF89 /* ArtistManager.m */,
+				B455766016A9E24500ECFF89 /* MapStopsController.h */,
+				B455766116A9E24500ECFF89 /* MapStopsController.m */,
+				B455766216A9E24500ECFF89 /* MapStopsController.xib */,
+				B455766316A9E24500ECFF89 /* MediaController.h */,
+				B455766416A9E24500ECFF89 /* MediaController.m */,
+				B455766516A9E24500ECFF89 /* MediaController.xib */,
+				B455766616A9E24500ECFF89 /* Artist.h */,
+				B455766716A9E24500ECFF89 /* Artist.m */,
+				B455766816A9E24500ECFF89 /* ArtCardsController.h */,
+				B455766916A9E24500ECFF89 /* ArtCardsController.m */,
+				B455766A16A9E24500ECFF89 /* ArtCardsController.xib */,
+				B455766B16A9E24500ECFF89 /* first.png */,
+				B455766C16A9E24500ECFF89 /* first@2x.png */,
+				B455766D16A9E24500ECFF89 /* second.png */,
+				B455766E16A9E24500ECFF89 /* second@2x.png */,
 				B43E186516A9E19A00330DC7 /* Supporting Files */,
 			);
 			path = ArtCards;
@@ -189,14 +213,13 @@
 				B43E187116A9E19A00330DC7 /* Default.png in Resources */,
 				B43E187316A9E19A00330DC7 /* Default@2x.png in Resources */,
 				B43E187516A9E19A00330DC7 /* Default-568h@2x.png in Resources */,
-				B43E187A16A9E19A00330DC7 /* first.png in Resources */,
-				B43E187C16A9E19A00330DC7 /* first@2x.png in Resources */,
-				B43E188116A9E19A00330DC7 /* second.png in Resources */,
-				B43E188316A9E19A00330DC7 /* second@2x.png in Resources */,
-				B43E188616A9E19A00330DC7 /* SDFirstViewController_iPhone.xib in Resources */,
-				B43E188916A9E19A00330DC7 /* SDFirstViewController_iPad.xib in Resources */,
-				B43E188C16A9E19A00330DC7 /* SDSecondViewController_iPhone.xib in Resources */,
-				B43E188F16A9E19A00330DC7 /* SDSecondViewController_iPad.xib in Resources */,
+				B455767216A9E24500ECFF89 /* MapStopsController.xib in Resources */,
+				B455767416A9E24500ECFF89 /* MediaController.xib in Resources */,
+				B455767716A9E24500ECFF89 /* ArtCardsController.xib in Resources */,
+				B455767816A9E24500ECFF89 /* first.png in Resources */,
+				B455767916A9E24500ECFF89 /* first@2x.png in Resources */,
+				B455767A16A9E24500ECFF89 /* second.png in Resources */,
+				B455767B16A9E24500ECFF89 /* second@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -208,9 +231,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				B43E186B16A9E19A00330DC7 /* main.m in Sources */,
-				B43E186F16A9E19A00330DC7 /* SDAppDelegate.m in Sources */,
-				B43E187816A9E19A00330DC7 /* SDFirstViewController.m in Sources */,
-				B43E187F16A9E19A00330DC7 /* SDSecondViewController.m in Sources */,
+				B455766F16A9E24500ECFF89 /* SDAppDelegate.m in Sources */,
+				B455767016A9E24500ECFF89 /* ArtistManager.m in Sources */,
+				B455767116A9E24500ECFF89 /* MapStopsController.m in Sources */,
+				B455767316A9E24500ECFF89 /* MediaController.m in Sources */,
+				B455767516A9E24500ECFF89 /* Artist.m in Sources */,
+				B455767616A9E24500ECFF89 /* ArtCardsController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -223,38 +249,6 @@
 				B43E186816A9E19A00330DC7 /* en */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		B43E188416A9E19A00330DC7 /* SDFirstViewController_iPhone.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B43E188516A9E19A00330DC7 /* en */,
-			);
-			name = SDFirstViewController_iPhone.xib;
-			sourceTree = "<group>";
-		};
-		B43E188716A9E19A00330DC7 /* SDFirstViewController_iPad.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B43E188816A9E19A00330DC7 /* en */,
-			);
-			name = SDFirstViewController_iPad.xib;
-			sourceTree = "<group>";
-		};
-		B43E188A16A9E19A00330DC7 /* SDSecondViewController_iPhone.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B43E188B16A9E19A00330DC7 /* en */,
-			);
-			name = SDSecondViewController_iPhone.xib;
-			sourceTree = "<group>";
-		};
-		B43E188D16A9E19A00330DC7 /* SDSecondViewController_iPad.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B43E188E16A9E19A00330DC7 /* en */,
-			);
-			name = SDSecondViewController_iPad.xib;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -352,6 +346,7 @@
 				B43E189416A9E19A00330DC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

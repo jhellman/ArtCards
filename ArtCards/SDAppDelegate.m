@@ -1,6 +1,6 @@
 //
 //  SDAppDelegate.m
-//  ArtCards
+//  Abiquiu ArtCards
 //
 //  Created by Androidicus Maximus on 1/18/13.
 //  Copyright (c) 2013 Androidicus Maximus. All rights reserved.
@@ -8,9 +8,9 @@
 
 #import "SDAppDelegate.h"
 
-#import "SDFirstViewController.h"
-
-#import "SDSecondViewController.h"
+#import "ArtCardsController.h"
+#import "MapStopsController.h"
+#import "MediaController.h"
 
 @implementation SDAppDelegate
 
@@ -18,17 +18,19 @@
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
-	UIViewController *viewController1, *viewController2;
-	if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
-	    viewController1 = [[SDFirstViewController alloc] initWithNibName:@"SDFirstViewController_iPhone" bundle:nil];
-	    viewController2 = [[SDSecondViewController alloc] initWithNibName:@"SDSecondViewController_iPhone" bundle:nil];
-	} else {
-	    viewController1 = [[SDFirstViewController alloc] initWithNibName:@"SDFirstViewController_iPad" bundle:nil];
-	    viewController2 = [[SDSecondViewController alloc] initWithNibName:@"SDSecondViewController_iPad" bundle:nil];
-	}
+	UIViewController *artistsCards, *mapStops, *media, *search;
+//	if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
+	artistsCards = [[ArtCardsController alloc] initWithNibName:@"ArtCardsController" bundle:nil];
+	mapStops = [[MapStopsController alloc] init];
+	media = [[MediaController alloc] init];
+	
 	self.tabBarController = [[UITabBarController alloc] init];
-	self.tabBarController.viewControllers = @[viewController1, viewController2];
-	self.window.rootViewController = self.tabBarController;
+	self.tabBarController.viewControllers = @[artistsCards, mapStops, media];
+	
+	UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:self.tabBarController];
+	[nav setNavigationBarHidden:YES];
+//	self.window.rootViewController = self.tabBarController;
+	self.window.rootViewController = nav;
     [self.window makeKeyAndVisible];
     return YES;
 }
