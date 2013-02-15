@@ -17,7 +17,7 @@ extern NSString *allMediaTypes[MEDIA_TYPE_MAX];
 @property (nonatomic, copy) NSString *firstName;
 @property (nonatomic, copy) NSString *lastName;
 @property (nonatomic, copy) NSString *type;
-@property (nonatomic, retain) NSMutableArray *mediaTypes;
+@property (nonatomic, retain) NSArray *mediaTypes;
 @property (nonatomic, copy) NSString *artCardInfo;
 @property (nonatomic, copy) NSString *webSite;
 @property (nonatomic, copy) NSString *email;
@@ -37,5 +37,7 @@ extern NSString *allMediaTypes[MEDIA_TYPE_MAX];
 - (UIImage *)thumbnailImage;
 - (UIImage *)fullImage;
 - (NSString *)fullName;
+
+- (BOOL)matchesString:(NSString *)s forScope:(NSString *)scopeKey; // returns nil if no match
 
 @end

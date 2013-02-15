@@ -11,6 +11,7 @@
 #import "ArtCardsController.h"
 #import "MapStopsController.h"
 #import "MediaController.h"
+#import "SearchArtistController.h"
 
 @implementation SDAppDelegate
 
@@ -23,9 +24,10 @@
 	artistsCards = [[ArtCardsController alloc] initWithNibName:@"ArtCardsController" bundle:nil];
 	mapStops = [[MapStopsController alloc] init];
 	media = [[MediaController alloc] init];
+	search = [[SearchArtistController alloc] init];
 	
 	self.tabBarController = [[UITabBarController alloc] init];
-	self.tabBarController.viewControllers = @[artistsCards, mapStops, media];
+	self.tabBarController.viewControllers = @[artistsCards, mapStops, media, search];
 	
 	UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:self.tabBarController];
 	[nav setNavigationBarHidden:YES];

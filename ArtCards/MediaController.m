@@ -23,8 +23,8 @@
 {
     self = [super initWithStyle:style];
     if (self) {
-#warning FILLL THESE OUT!
-		types = @[@"abstract",@"angels", @"animal"];
+
+		types = [NSArray arrayWithObjects:@"Ceramics", @"Digital Art", @"Drawing", @"Drums", @"Fiber Arts", @"Folk Art", @"Gallery", @"Glass", @"Jewelry", @"Mixed Media", @"Painting", @"Photography", @"Pottery", @"Printmaking", @"Products", @"Sculpture", @"Tin", @"Woodworking", nil];
 
 		self.title = NSLocalizedString(@"By Media", @"");
 		self.tabBarItem.image = [UIImage imageNamed:@"first"];

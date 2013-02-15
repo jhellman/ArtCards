@@ -31,6 +31,126 @@
 		B455767916A9E24500ECFF89 /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B455766C16A9E24500ECFF89 /* first@2x.png */; };
 		B455767A16A9E24500ECFF89 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = B455766D16A9E24500ECFF89 /* second.png */; };
 		B455767B16A9E24500ECFF89 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B455766E16A9E24500ECFF89 /* second@2x.png */; };
+		B48B89BF16CEAB73005CCD17 /* SearchArtistController.m in Sources */ = {isa = PBXBuildFile; fileRef = B48B89BD16CEAB73005CCD17 /* SearchArtistController.m */; };
+		B48B89C016CEAB73005CCD17 /* SearchArtistController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B48B89BE16CEAB73005CCD17 /* SearchArtistController.xib */; };
+		B48B89E516CEAF01005CCD17 /* MHodosko12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89C516CEAF01005CCD17 /* MHodosko12.jpg */; };
+		B48B89E616CEAF01005CCD17 /* MPahl12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89C616CEAF01005CCD17 /* MPahl12.jpg */; };
+		B48B89E716CEAF01005CCD17 /* NBarnes12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89C716CEAF01005CCD17 /* NBarnes12.jpg */; };
+		B48B89E816CEAF01005CCD17 /* NGarcia12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89C816CEAF01005CCD17 /* NGarcia12.jpg */; };
+		B48B89E916CEAF01005CCD17 /* NMedina12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89C916CEAF01005CCD17 /* NMedina12.jpg */; };
+		B48B89EA16CEAF01005CCD17 /* OLostetter12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89CA16CEAF01005CCD17 /* OLostetter12.jpg */; };
+		B48B89EB16CEAF01005CCD17 /* PBlair12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89CB16CEAF01005CCD17 /* PBlair12.jpg */; };
+		B48B89EC16CEAF01005CCD17 /* PFrazier12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89CC16CEAF01005CCD17 /* PFrazier12.jpg */; };
+		B48B89ED16CEAF01005CCD17 /* PNarbutovskih12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89CD16CEAF01005CCD17 /* PNarbutovskih12.jpg */; };
+		B48B89EE16CEAF01005CCD17 /* PurpleAdobe12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89CE16CEAF01005CCD17 /* PurpleAdobe12.jpg */; };
+		B48B89EF16CEAF01005CCD17 /* RBlanchard12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89CF16CEAF01005CCD17 /* RBlanchard12.jpg */; };
+		B48B89F016CEAF01005CCD17 /* RCox12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89D016CEAF01005CCD17 /* RCox12.jpg */; };
+		B48B89F116CEAF01005CCD17 /* RFirestone12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89D116CEAF01005CCD17 /* RFirestone12.jpg */; };
+		B48B89F216CEAF01005CCD17 /* RIR12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89D216CEAF01005CCD17 /* RIR12.jpg */; };
+		B48B89F316CEAF01005CCD17 /* RQuintana12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89D316CEAF01005CCD17 /* RQuintana12.jpg */; };
+		B48B89F416CEAF01005CCD17 /* RTrujillo12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89D416CEAF01005CCD17 /* RTrujillo12.jpg */; };
+		B48B89F516CEAF01005CCD17 /* RZimmerman12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89D516CEAF01005CCD17 /* RZimmerman12.jpg */; };
+		B48B89F616CEAF01005CCD17 /* SBader12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89D616CEAF01005CCD17 /* SBader12.jpg */; };
+		B48B89F716CEAF01005CCD17 /* SBallard12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89D716CEAF01005CCD17 /* SBallard12.jpg */; };
+		B48B89F816CEAF01005CCD17 /* SBarber12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89D816CEAF01005CCD17 /* SBarber12.jpg */; };
+		B48B89F916CEAF01005CCD17 /* SHodson12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89D916CEAF01005CCD17 /* SHodson12.jpg */; };
+		B48B89FA16CEAF01005CCD17 /* SKahan12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89DA16CEAF01005CCD17 /* SKahan12.jpg */; };
+		B48B89FB16CEAF01005CCD17 /* SLuchetti12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89DB16CEAF01005CCD17 /* SLuchetti12.jpg */; };
+		B48B89FC16CEAF01005CCD17 /* SNikolic12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89DC16CEAF01005CCD17 /* SNikolic12.jpg */; };
+		B48B89FD16CEAF01005CCD17 /* SRosolek12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89DD16CEAF01005CCD17 /* SRosolek12.jpg */; };
+		B48B89FE16CEAF01005CCD17 /* SWilliams12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89DE16CEAF01005CCD17 /* SWilliams12.jpg */; };
+		B48B89FF16CEAF01005CCD17 /* TMcbride12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89DF16CEAF01005CCD17 /* TMcbride12.jpg */; };
+		B48B8A0016CEAF01005CCD17 /* TToole12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89E016CEAF01005CCD17 /* TToole12.jpg */; };
+		B48B8A0116CEAF01005CCD17 /* TWillamson12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89E116CEAF01005CCD17 /* TWillamson12.jpg */; };
+		B48B8A0216CEAF01005CCD17 /* UEHC12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89E216CEAF01005CCD17 /* UEHC12.jpg */; };
+		B48B8A0316CEAF01005CCD17 /* WBrewster12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89E316CEAF01005CCD17 /* WBrewster12.jpg */; };
+		B48B8A0416CEAF01005CCD17 /* WNelson12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B89E416CEAF01005CCD17 /* WNelson12.jpg */; };
+		B48B8A0616CEAF0D005CCD17 /* bdbondy12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A0516CEAF0D005CCD17 /* bdbondy12.jpg */; };
+		B48B8A5816CEAF1F005CCD17 /* AArcher12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A0716CEAF1F005CCD17 /* AArcher12.jpg */; };
+		B48B8A5916CEAF1F005CCD17 /* ABader12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A0816CEAF1F005CCD17 /* ABader12.jpg */; };
+		B48B8A5A16CEAF1F005CCD17 /* ALopez12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A0916CEAF1F005CCD17 /* ALopez12.jpg */; };
+		B48B8A5B16CEAF1F005CCD17 /* ALostetter12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A0A16CEAF1F005CCD17 /* ALostetter12.jpg */; };
+		B48B8A5C16CEAF1F005CCD17 /* ALumaghi12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A0B16CEAF1F005CCD17 /* ALumaghi12.jpg */; };
+		B48B8A5D16CEAF1F005CCD17 /* AMagai12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A0C16CEAF1F005CCD17 /* AMagai12.jpg */; };
+		B48B8A5F16CEAF1F005CCD17 /* BEnoch12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A0E16CEAF1F005CCD17 /* BEnoch12.jpg */; };
+		B48B8A6016CEAF1F005CCD17 /* BFerguson12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A0F16CEAF1F005CCD17 /* BFerguson12.jpg */; };
+		B48B8A6116CEAF1F005CCD17 /* BManzanares12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1016CEAF1F005CCD17 /* BManzanares12.jpg */; };
+		B48B8A6216CEAF1F005CCD17 /* BosshardGallery12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1116CEAF1F005CCD17 /* BosshardGallery12.jpg */; };
+		B48B8A6316CEAF1F005CCD17 /* BPage12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1216CEAF1F005CCD17 /* BPage12.jpg */; };
+		B48B8A6416CEAF1F005CCD17 /* BSturge12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1316CEAF1F005CCD17 /* BSturge12.jpg */; };
+		B48B8A6516CEAF1F005CCD17 /* CBondy12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1416CEAF1F005CCD17 /* CBondy12.jpg */; };
+		B48B8A6616CEAF1F005CCD17 /* CBurns12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1516CEAF1F005CCD17 /* CBurns12.jpg */; };
+		B48B8A6716CEAF1F005CCD17 /* DBlackmore12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1616CEAF1F005CCD17 /* DBlackmore12.jpg */; };
+		B48B8A6816CEAF1F005CCD17 /* DDarrow12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1716CEAF1F005CCD17 /* DDarrow12.jpg */; };
+		B48B8A6916CEAF1F005CCD17 /* DFritz12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1816CEAF1F005CCD17 /* DFritz12.jpg */; };
+		B48B8A6A16CEAF1F005CCD17 /* DHarris12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1916CEAF1F005CCD17 /* DHarris12.jpg */; };
+		B48B8A6B16CEAF1F005CCD17 /* DHiggs12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1A16CEAF1F005CCD17 /* DHiggs12.jpg */; };
+		B48B8A6C16CEAF1F005CCD17 /* DLumaghi12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1B16CEAF1F005CCD17 /* DLumaghi12.jpg */; };
+		B48B8A6D16CEAF1F005CCD17 /* DSaunders12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1C16CEAF1F005CCD17 /* DSaunders12.jpg */; };
+		B48B8A6E16CEAF1F005CCD17 /* FShelton12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1D16CEAF1F005CCD17 /* FShelton12.jpg */; };
+		B48B8A6F16CEAF1F005CCD17 /* GCisneros12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1E16CEAF1F005CCD17 /* GCisneros12.jpg */; };
+		B48B8A7016CEAF1F005CCD17 /* GLegato12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A1F16CEAF1F005CCD17 /* GLegato12.jpg */; };
+		B48B8A7116CEAF1F005CCD17 /* GMorris12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2016CEAF1F005CCD17 /* GMorris12.jpg */; };
+		B48B8A7216CEAF1F005CCD17 /* HLorenz12b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2116CEAF1F005CCD17 /* HLorenz12b.jpg */; };
+		B48B8A7316CEAF1F005CCD17 /* IAlaridPease12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2216CEAF1F005CCD17 /* IAlaridPease12.jpg */; };
+		B48B8A7416CEAF1F005CCD17 /* IMaestas12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2316CEAF1F005CCD17 /* IMaestas12.jpg */; };
+		B48B8A7516CEAF1F005CCD17 /* JBrookshier12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2416CEAF1F005CCD17 /* JBrookshier12.jpg */; };
+		B48B8A7616CEAF1F005CCD17 /* JBuros12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2516CEAF1F005CCD17 /* JBuros12.jpg */; };
+		B48B8A7716CEAF1F005CCD17 /* JFranco12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2616CEAF1F005CCD17 /* JFranco12.jpg */; };
+		B48B8A7816CEAF1F005CCD17 /* JGough12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2716CEAF1F005CCD17 /* JGough12.jpg */; };
+		B48B8A7916CEAF1F005CCD17 /* JLutz12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2816CEAF1F005CCD17 /* JLutz12.jpg */; };
+		B48B8A7A16CEAF1F005CCD17 /* JMallegni12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2916CEAF1F005CCD17 /* JMallegni12.jpg */; };
+		B48B8A7B16CEAF1F005CCD17 /* JReeve12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2A16CEAF1F005CCD17 /* JReeve12.jpg */; };
+		B48B8A7C16CEAF1F005CCD17 /* JRivera12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2B16CEAF1F005CCD17 /* JRivera12.jpg */; };
+		B48B8A7D16CEAF1F005CCD17 /* JSuris12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2C16CEAF1F005CCD17 /* JSuris12.jpg */; };
+		B48B8A7E16CEAF1F005CCD17 /* JZalenski12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2D16CEAF1F005CCD17 /* JZalenski12.jpg */; };
+		B48B8A7F16CEAF1F005CCD17 /* KBlanchard12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2E16CEAF1F005CCD17 /* KBlanchard12.jpg */; };
+		B48B8A8016CEAF1F005CCD17 /* KLostetter12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A2F16CEAF1F005CCD17 /* KLostetter12.jpg */; };
+		B48B8A8116CEAF1F005CCD17 /* KOrtiz12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3016CEAF1F005CCD17 /* KOrtiz12.jpg */; };
+		B48B8A8216CEAF1F005CCD17 /* LBaybayan12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3116CEAF1F005CCD17 /* LBaybayan12.jpg */; };
+		B48B8A8316CEAF1F005CCD17 /* LGarcia12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3216CEAF1F005CCD17 /* LGarcia12.jpg */; };
+		B48B8A8416CEAF1F005CCD17 /* LMartinez12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3316CEAF1F005CCD17 /* LMartinez12.jpg */; };
+		B48B8A8516CEAF1F005CCD17 /* magai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3416CEAF1F005CCD17 /* magai.jpg */; };
+		B48B8A8616CEAF1F005CCD17 /* MChudnoff12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3516CEAF1F005CCD17 /* MChudnoff12.jpg */; };
+		B48B8A8716CEAF1F005CCD17 /* MDMaestas12b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3616CEAF1F005CCD17 /* MDMaestas12b.jpg */; };
+		B48B8A8816CEAF1F005CCD17 /* MFranco12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3716CEAF1F005CCD17 /* MFranco12.jpg */; };
+		B48B8A8916CEAF1F005CCD17 /* MHodosko12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3816CEAF1F005CCD17 /* MHodosko12.jpg */; };
+		B48B8A8A16CEAF1F005CCD17 /* MPahl12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3916CEAF1F005CCD17 /* MPahl12.jpg */; };
+		B48B8A8B16CEAF1F005CCD17 /* NBarnes12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3A16CEAF1F005CCD17 /* NBarnes12.jpg */; };
+		B48B8A8C16CEAF1F005CCD17 /* NGarcia12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3B16CEAF1F005CCD17 /* NGarcia12.jpg */; };
+		B48B8A8D16CEAF1F005CCD17 /* NMedina12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3C16CEAF1F005CCD17 /* NMedina12.jpg */; };
+		B48B8A8E16CEAF1F005CCD17 /* OLostetter12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3D16CEAF1F005CCD17 /* OLostetter12.jpg */; };
+		B48B8A8F16CEAF1F005CCD17 /* PBlair12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3E16CEAF1F005CCD17 /* PBlair12.jpg */; };
+		B48B8A9016CEAF1F005CCD17 /* PFrazier12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A3F16CEAF1F005CCD17 /* PFrazier12.jpg */; };
+		B48B8A9116CEAF1F005CCD17 /* PNarbutovskih12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4016CEAF1F005CCD17 /* PNarbutovskih12.jpg */; };
+		B48B8A9216CEAF1F005CCD17 /* PurpleAdobe12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4116CEAF1F005CCD17 /* PurpleAdobe12.jpg */; };
+		B48B8A9316CEAF1F005CCD17 /* RBlanchard12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4216CEAF1F005CCD17 /* RBlanchard12.jpg */; };
+		B48B8A9416CEAF1F005CCD17 /* RCox12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4316CEAF1F005CCD17 /* RCox12.jpg */; };
+		B48B8A9516CEAF20005CCD17 /* RFirestone12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4416CEAF1F005CCD17 /* RFirestone12.jpg */; };
+		B48B8A9616CEAF20005CCD17 /* RIR12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4516CEAF1F005CCD17 /* RIR12.jpg */; };
+		B48B8A9716CEAF20005CCD17 /* RQuintana12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4616CEAF1F005CCD17 /* RQuintana12.jpg */; };
+		B48B8A9816CEAF20005CCD17 /* RTrujillo12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4716CEAF1F005CCD17 /* RTrujillo12.jpg */; };
+		B48B8A9916CEAF20005CCD17 /* RZimmerman12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4816CEAF1F005CCD17 /* RZimmerman12.jpg */; };
+		B48B8A9A16CEAF20005CCD17 /* SBader12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4916CEAF1F005CCD17 /* SBader12.jpg */; };
+		B48B8A9B16CEAF20005CCD17 /* SBallard12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4A16CEAF1F005CCD17 /* SBallard12.jpg */; };
+		B48B8A9C16CEAF20005CCD17 /* SBarber.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4B16CEAF1F005CCD17 /* SBarber.jpg */; };
+		B48B8A9D16CEAF20005CCD17 /* SBarber12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4C16CEAF1F005CCD17 /* SBarber12.jpg */; };
+		B48B8A9E16CEAF20005CCD17 /* SHodson12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4D16CEAF1F005CCD17 /* SHodson12.jpg */; };
+		B48B8A9F16CEAF20005CCD17 /* SKahan12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4E16CEAF1F005CCD17 /* SKahan12.jpg */; };
+		B48B8AA016CEAF20005CCD17 /* SLuchetti12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A4F16CEAF1F005CCD17 /* SLuchetti12.jpg */; };
+		B48B8AA116CEAF20005CCD17 /* SNikolic12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A5016CEAF1F005CCD17 /* SNikolic12.jpg */; };
+		B48B8AA216CEAF20005CCD17 /* SRosolek12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A5116CEAF1F005CCD17 /* SRosolek12.jpg */; };
+		B48B8AA316CEAF20005CCD17 /* SWilliams12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A5216CEAF1F005CCD17 /* SWilliams12.jpg */; };
+		B48B8AA416CEAF20005CCD17 /* TMcbride12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A5316CEAF1F005CCD17 /* TMcbride12.jpg */; };
+		B48B8AA516CEAF20005CCD17 /* TToole12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A5416CEAF1F005CCD17 /* TToole12.jpg */; };
+		B48B8AA616CEAF20005CCD17 /* TWillamson12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A5516CEAF1F005CCD17 /* TWillamson12.jpg */; };
+		B48B8AA716CEAF20005CCD17 /* WBrewster12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A5616CEAF1F005CCD17 /* WBrewster12.jpg */; };
+		B48B8AA816CEAF20005CCD17 /* WNelson12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B48B8A5716CEAF1F005CCD17 /* WNelson12.jpg */; };
+		B48B8AAA16CEAF8E005CCD17 /* Artists.plist in Resources */ = {isa = PBXBuildFile; fileRef = B48B8AA916CEAF8E005CCD17 /* Artists.plist */; };
+		B48B8AAF16CEB9ED005CCD17 /* 06-magnify.png in Resources */ = {isa = PBXBuildFile; fileRef = B48B8AAB16CEB9ED005CCD17 /* 06-magnify.png */; };
+		B48B8AB016CEB9ED005CCD17 /* 06-magnify@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B48B8AAC16CEB9ED005CCD17 /* 06-magnify@2x.png */; };
+		B48B8AB116CEB9ED005CCD17 /* 07-map-marker.png in Resources */ = {isa = PBXBuildFile; fileRef = B48B8AAD16CEB9ED005CCD17 /* 07-map-marker.png */; };
+		B48B8AB216CEB9ED005CCD17 /* 07-map-marker@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B48B8AAE16CEB9ED005CCD17 /* 07-map-marker@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +187,127 @@
 		B455766C16A9E24500ECFF89 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
 		B455766D16A9E24500ECFF89 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		B455766E16A9E24500ECFF89 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		B48B89BC16CEAB73005CCD17 /* SearchArtistController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchArtistController.h; sourceTree = "<group>"; };
+		B48B89BD16CEAB73005CCD17 /* SearchArtistController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchArtistController.m; sourceTree = "<group>"; };
+		B48B89BE16CEAB73005CCD17 /* SearchArtistController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SearchArtistController.xib; sourceTree = "<group>"; };
+		B48B89C516CEAF01005CCD17 /* MHodosko12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MHodosko12.jpg; path = images/thumbs/MHodosko12.jpg; sourceTree = "<group>"; };
+		B48B89C616CEAF01005CCD17 /* MPahl12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MPahl12.jpg; path = images/thumbs/MPahl12.jpg; sourceTree = "<group>"; };
+		B48B89C716CEAF01005CCD17 /* NBarnes12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = NBarnes12.jpg; path = images/thumbs/NBarnes12.jpg; sourceTree = "<group>"; };
+		B48B89C816CEAF01005CCD17 /* NGarcia12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = NGarcia12.jpg; path = images/thumbs/NGarcia12.jpg; sourceTree = "<group>"; };
+		B48B89C916CEAF01005CCD17 /* NMedina12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = NMedina12.jpg; path = images/thumbs/NMedina12.jpg; sourceTree = "<group>"; };
+		B48B89CA16CEAF01005CCD17 /* OLostetter12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = OLostetter12.jpg; path = images/thumbs/OLostetter12.jpg; sourceTree = "<group>"; };
+		B48B89CB16CEAF01005CCD17 /* PBlair12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PBlair12.jpg; path = images/thumbs/PBlair12.jpg; sourceTree = "<group>"; };
+		B48B89CC16CEAF01005CCD17 /* PFrazier12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PFrazier12.jpg; path = images/thumbs/PFrazier12.jpg; sourceTree = "<group>"; };
+		B48B89CD16CEAF01005CCD17 /* PNarbutovskih12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PNarbutovskih12.jpg; path = images/thumbs/PNarbutovskih12.jpg; sourceTree = "<group>"; };
+		B48B89CE16CEAF01005CCD17 /* PurpleAdobe12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PurpleAdobe12.jpg; path = images/thumbs/PurpleAdobe12.jpg; sourceTree = "<group>"; };
+		B48B89CF16CEAF01005CCD17 /* RBlanchard12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RBlanchard12.jpg; path = images/thumbs/RBlanchard12.jpg; sourceTree = "<group>"; };
+		B48B89D016CEAF01005CCD17 /* RCox12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RCox12.jpg; path = images/thumbs/RCox12.jpg; sourceTree = "<group>"; };
+		B48B89D116CEAF01005CCD17 /* RFirestone12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RFirestone12.jpg; path = images/thumbs/RFirestone12.jpg; sourceTree = "<group>"; };
+		B48B89D216CEAF01005CCD17 /* RIR12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RIR12.jpg; path = images/thumbs/RIR12.jpg; sourceTree = "<group>"; };
+		B48B89D316CEAF01005CCD17 /* RQuintana12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RQuintana12.jpg; path = images/thumbs/RQuintana12.jpg; sourceTree = "<group>"; };
+		B48B89D416CEAF01005CCD17 /* RTrujillo12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RTrujillo12.jpg; path = images/thumbs/RTrujillo12.jpg; sourceTree = "<group>"; };
+		B48B89D516CEAF01005CCD17 /* RZimmerman12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RZimmerman12.jpg; path = images/thumbs/RZimmerman12.jpg; sourceTree = "<group>"; };
+		B48B89D616CEAF01005CCD17 /* SBader12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SBader12.jpg; path = images/thumbs/SBader12.jpg; sourceTree = "<group>"; };
+		B48B89D716CEAF01005CCD17 /* SBallard12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SBallard12.jpg; path = images/thumbs/SBallard12.jpg; sourceTree = "<group>"; };
+		B48B89D816CEAF01005CCD17 /* SBarber12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SBarber12.jpg; path = images/thumbs/SBarber12.jpg; sourceTree = "<group>"; };
+		B48B89D916CEAF01005CCD17 /* SHodson12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SHodson12.jpg; path = images/thumbs/SHodson12.jpg; sourceTree = "<group>"; };
+		B48B89DA16CEAF01005CCD17 /* SKahan12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SKahan12.jpg; path = images/thumbs/SKahan12.jpg; sourceTree = "<group>"; };
+		B48B89DB16CEAF01005CCD17 /* SLuchetti12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SLuchetti12.jpg; path = images/thumbs/SLuchetti12.jpg; sourceTree = "<group>"; };
+		B48B89DC16CEAF01005CCD17 /* SNikolic12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SNikolic12.jpg; path = images/thumbs/SNikolic12.jpg; sourceTree = "<group>"; };
+		B48B89DD16CEAF01005CCD17 /* SRosolek12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SRosolek12.jpg; path = images/thumbs/SRosolek12.jpg; sourceTree = "<group>"; };
+		B48B89DE16CEAF01005CCD17 /* SWilliams12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SWilliams12.jpg; path = images/thumbs/SWilliams12.jpg; sourceTree = "<group>"; };
+		B48B89DF16CEAF01005CCD17 /* TMcbride12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = TMcbride12.jpg; path = images/thumbs/TMcbride12.jpg; sourceTree = "<group>"; };
+		B48B89E016CEAF01005CCD17 /* TToole12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = TToole12.jpg; path = images/thumbs/TToole12.jpg; sourceTree = "<group>"; };
+		B48B89E116CEAF01005CCD17 /* TWillamson12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = TWillamson12.jpg; path = images/thumbs/TWillamson12.jpg; sourceTree = "<group>"; };
+		B48B89E216CEAF01005CCD17 /* UEHC12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = UEHC12.jpg; path = images/thumbs/UEHC12.jpg; sourceTree = "<group>"; };
+		B48B89E316CEAF01005CCD17 /* WBrewster12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = WBrewster12.jpg; path = images/thumbs/WBrewster12.jpg; sourceTree = "<group>"; };
+		B48B89E416CEAF01005CCD17 /* WNelson12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = WNelson12.jpg; path = images/thumbs/WNelson12.jpg; sourceTree = "<group>"; };
+		B48B8A0516CEAF0D005CCD17 /* bdbondy12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bdbondy12.jpg; path = images/fullsizeart/bdbondy12.jpg; sourceTree = "<group>"; };
+		B48B8A0716CEAF1F005CCD17 /* AArcher12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = AArcher12.jpg; path = images/fullsizeart/AArcher12.jpg; sourceTree = "<group>"; };
+		B48B8A0816CEAF1F005CCD17 /* ABader12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ABader12.jpg; path = images/fullsizeart/ABader12.jpg; sourceTree = "<group>"; };
+		B48B8A0916CEAF1F005CCD17 /* ALopez12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ALopez12.jpg; path = images/fullsizeart/ALopez12.jpg; sourceTree = "<group>"; };
+		B48B8A0A16CEAF1F005CCD17 /* ALostetter12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ALostetter12.jpg; path = images/fullsizeart/ALostetter12.jpg; sourceTree = "<group>"; };
+		B48B8A0B16CEAF1F005CCD17 /* ALumaghi12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ALumaghi12.jpg; path = images/fullsizeart/ALumaghi12.jpg; sourceTree = "<group>"; };
+		B48B8A0C16CEAF1F005CCD17 /* AMagai12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = AMagai12.jpg; path = images/fullsizeart/AMagai12.jpg; sourceTree = "<group>"; };
+		B48B8A0E16CEAF1F005CCD17 /* BEnoch12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BEnoch12.jpg; path = images/fullsizeart/BEnoch12.jpg; sourceTree = "<group>"; };
+		B48B8A0F16CEAF1F005CCD17 /* BFerguson12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BFerguson12.jpg; path = images/fullsizeart/BFerguson12.jpg; sourceTree = "<group>"; };
+		B48B8A1016CEAF1F005CCD17 /* BManzanares12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BManzanares12.jpg; path = images/fullsizeart/BManzanares12.jpg; sourceTree = "<group>"; };
+		B48B8A1116CEAF1F005CCD17 /* BosshardGallery12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BosshardGallery12.jpg; path = images/fullsizeart/BosshardGallery12.jpg; sourceTree = "<group>"; };
+		B48B8A1216CEAF1F005CCD17 /* BPage12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BPage12.jpg; path = images/fullsizeart/BPage12.jpg; sourceTree = "<group>"; };
+		B48B8A1316CEAF1F005CCD17 /* BSturge12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BSturge12.jpg; path = images/fullsizeart/BSturge12.jpg; sourceTree = "<group>"; };
+		B48B8A1416CEAF1F005CCD17 /* CBondy12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = CBondy12.jpg; path = images/fullsizeart/CBondy12.jpg; sourceTree = "<group>"; };
+		B48B8A1516CEAF1F005CCD17 /* CBurns12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = CBurns12.jpg; path = images/fullsizeart/CBurns12.jpg; sourceTree = "<group>"; };
+		B48B8A1616CEAF1F005CCD17 /* DBlackmore12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DBlackmore12.jpg; path = images/fullsizeart/DBlackmore12.jpg; sourceTree = "<group>"; };
+		B48B8A1716CEAF1F005CCD17 /* DDarrow12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DDarrow12.jpg; path = images/fullsizeart/DDarrow12.jpg; sourceTree = "<group>"; };
+		B48B8A1816CEAF1F005CCD17 /* DFritz12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DFritz12.jpg; path = images/fullsizeart/DFritz12.jpg; sourceTree = "<group>"; };
+		B48B8A1916CEAF1F005CCD17 /* DHarris12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DHarris12.jpg; path = images/fullsizeart/DHarris12.jpg; sourceTree = "<group>"; };
+		B48B8A1A16CEAF1F005CCD17 /* DHiggs12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DHiggs12.jpg; path = images/fullsizeart/DHiggs12.jpg; sourceTree = "<group>"; };
+		B48B8A1B16CEAF1F005CCD17 /* DLumaghi12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DLumaghi12.jpg; path = images/fullsizeart/DLumaghi12.jpg; sourceTree = "<group>"; };
+		B48B8A1C16CEAF1F005CCD17 /* DSaunders12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DSaunders12.jpg; path = images/fullsizeart/DSaunders12.jpg; sourceTree = "<group>"; };
+		B48B8A1D16CEAF1F005CCD17 /* FShelton12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = FShelton12.jpg; path = images/fullsizeart/FShelton12.jpg; sourceTree = "<group>"; };
+		B48B8A1E16CEAF1F005CCD17 /* GCisneros12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = GCisneros12.jpg; path = images/fullsizeart/GCisneros12.jpg; sourceTree = "<group>"; };
+		B48B8A1F16CEAF1F005CCD17 /* GLegato12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = GLegato12.jpg; path = images/fullsizeart/GLegato12.jpg; sourceTree = "<group>"; };
+		B48B8A2016CEAF1F005CCD17 /* GMorris12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = GMorris12.jpg; path = images/fullsizeart/GMorris12.jpg; sourceTree = "<group>"; };
+		B48B8A2116CEAF1F005CCD17 /* HLorenz12b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = HLorenz12b.jpg; path = images/fullsizeart/HLorenz12b.jpg; sourceTree = "<group>"; };
+		B48B8A2216CEAF1F005CCD17 /* IAlaridPease12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IAlaridPease12.jpg; path = images/fullsizeart/IAlaridPease12.jpg; sourceTree = "<group>"; };
+		B48B8A2316CEAF1F005CCD17 /* IMaestas12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMaestas12.jpg; path = images/fullsizeart/IMaestas12.jpg; sourceTree = "<group>"; };
+		B48B8A2416CEAF1F005CCD17 /* JBrookshier12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JBrookshier12.jpg; path = images/fullsizeart/JBrookshier12.jpg; sourceTree = "<group>"; };
+		B48B8A2516CEAF1F005CCD17 /* JBuros12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JBuros12.jpg; path = images/fullsizeart/JBuros12.jpg; sourceTree = "<group>"; };
+		B48B8A2616CEAF1F005CCD17 /* JFranco12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JFranco12.jpg; path = images/fullsizeart/JFranco12.jpg; sourceTree = "<group>"; };
+		B48B8A2716CEAF1F005CCD17 /* JGough12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JGough12.jpg; path = images/fullsizeart/JGough12.jpg; sourceTree = "<group>"; };
+		B48B8A2816CEAF1F005CCD17 /* JLutz12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JLutz12.jpg; path = images/fullsizeart/JLutz12.jpg; sourceTree = "<group>"; };
+		B48B8A2916CEAF1F005CCD17 /* JMallegni12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JMallegni12.jpg; path = images/fullsizeart/JMallegni12.jpg; sourceTree = "<group>"; };
+		B48B8A2A16CEAF1F005CCD17 /* JReeve12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JReeve12.jpg; path = images/fullsizeart/JReeve12.jpg; sourceTree = "<group>"; };
+		B48B8A2B16CEAF1F005CCD17 /* JRivera12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JRivera12.jpg; path = images/fullsizeart/JRivera12.jpg; sourceTree = "<group>"; };
+		B48B8A2C16CEAF1F005CCD17 /* JSuris12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JSuris12.jpg; path = images/fullsizeart/JSuris12.jpg; sourceTree = "<group>"; };
+		B48B8A2D16CEAF1F005CCD17 /* JZalenski12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JZalenski12.jpg; path = images/fullsizeart/JZalenski12.jpg; sourceTree = "<group>"; };
+		B48B8A2E16CEAF1F005CCD17 /* KBlanchard12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = KBlanchard12.jpg; path = images/fullsizeart/KBlanchard12.jpg; sourceTree = "<group>"; };
+		B48B8A2F16CEAF1F005CCD17 /* KLostetter12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = KLostetter12.jpg; path = images/fullsizeart/KLostetter12.jpg; sourceTree = "<group>"; };
+		B48B8A3016CEAF1F005CCD17 /* KOrtiz12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = KOrtiz12.jpg; path = images/fullsizeart/KOrtiz12.jpg; sourceTree = "<group>"; };
+		B48B8A3116CEAF1F005CCD17 /* LBaybayan12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = LBaybayan12.jpg; path = images/fullsizeart/LBaybayan12.jpg; sourceTree = "<group>"; };
+		B48B8A3216CEAF1F005CCD17 /* LGarcia12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = LGarcia12.jpg; path = images/fullsizeart/LGarcia12.jpg; sourceTree = "<group>"; };
+		B48B8A3316CEAF1F005CCD17 /* LMartinez12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = LMartinez12.jpg; path = images/fullsizeart/LMartinez12.jpg; sourceTree = "<group>"; };
+		B48B8A3416CEAF1F005CCD17 /* magai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = magai.jpg; path = images/fullsizeart/magai.jpg; sourceTree = "<group>"; };
+		B48B8A3516CEAF1F005CCD17 /* MChudnoff12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MChudnoff12.jpg; path = images/fullsizeart/MChudnoff12.jpg; sourceTree = "<group>"; };
+		B48B8A3616CEAF1F005CCD17 /* MDMaestas12b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MDMaestas12b.jpg; path = images/fullsizeart/MDMaestas12b.jpg; sourceTree = "<group>"; };
+		B48B8A3716CEAF1F005CCD17 /* MFranco12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MFranco12.jpg; path = images/fullsizeart/MFranco12.jpg; sourceTree = "<group>"; };
+		B48B8A3816CEAF1F005CCD17 /* MHodosko12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MHodosko12.jpg; path = images/fullsizeart/MHodosko12.jpg; sourceTree = "<group>"; };
+		B48B8A3916CEAF1F005CCD17 /* MPahl12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MPahl12.jpg; path = images/fullsizeart/MPahl12.jpg; sourceTree = "<group>"; };
+		B48B8A3A16CEAF1F005CCD17 /* NBarnes12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = NBarnes12.jpg; path = images/fullsizeart/NBarnes12.jpg; sourceTree = "<group>"; };
+		B48B8A3B16CEAF1F005CCD17 /* NGarcia12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = NGarcia12.jpg; path = images/fullsizeart/NGarcia12.jpg; sourceTree = "<group>"; };
+		B48B8A3C16CEAF1F005CCD17 /* NMedina12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = NMedina12.jpg; path = images/fullsizeart/NMedina12.jpg; sourceTree = "<group>"; };
+		B48B8A3D16CEAF1F005CCD17 /* OLostetter12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = OLostetter12.jpg; path = images/fullsizeart/OLostetter12.jpg; sourceTree = "<group>"; };
+		B48B8A3E16CEAF1F005CCD17 /* PBlair12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PBlair12.jpg; path = images/fullsizeart/PBlair12.jpg; sourceTree = "<group>"; };
+		B48B8A3F16CEAF1F005CCD17 /* PFrazier12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PFrazier12.jpg; path = images/fullsizeart/PFrazier12.jpg; sourceTree = "<group>"; };
+		B48B8A4016CEAF1F005CCD17 /* PNarbutovskih12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PNarbutovskih12.jpg; path = images/fullsizeart/PNarbutovskih12.jpg; sourceTree = "<group>"; };
+		B48B8A4116CEAF1F005CCD17 /* PurpleAdobe12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PurpleAdobe12.jpg; path = images/fullsizeart/PurpleAdobe12.jpg; sourceTree = "<group>"; };
+		B48B8A4216CEAF1F005CCD17 /* RBlanchard12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RBlanchard12.jpg; path = images/fullsizeart/RBlanchard12.jpg; sourceTree = "<group>"; };
+		B48B8A4316CEAF1F005CCD17 /* RCox12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RCox12.jpg; path = images/fullsizeart/RCox12.jpg; sourceTree = "<group>"; };
+		B48B8A4416CEAF1F005CCD17 /* RFirestone12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RFirestone12.jpg; path = images/fullsizeart/RFirestone12.jpg; sourceTree = "<group>"; };
+		B48B8A4516CEAF1F005CCD17 /* RIR12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RIR12.jpg; path = images/fullsizeart/RIR12.jpg; sourceTree = "<group>"; };
+		B48B8A4616CEAF1F005CCD17 /* RQuintana12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RQuintana12.jpg; path = images/fullsizeart/RQuintana12.jpg; sourceTree = "<group>"; };
+		B48B8A4716CEAF1F005CCD17 /* RTrujillo12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RTrujillo12.jpg; path = images/fullsizeart/RTrujillo12.jpg; sourceTree = "<group>"; };
+		B48B8A4816CEAF1F005CCD17 /* RZimmerman12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RZimmerman12.jpg; path = images/fullsizeart/RZimmerman12.jpg; sourceTree = "<group>"; };
+		B48B8A4916CEAF1F005CCD17 /* SBader12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SBader12.jpg; path = images/fullsizeart/SBader12.jpg; sourceTree = "<group>"; };
+		B48B8A4A16CEAF1F005CCD17 /* SBallard12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SBallard12.jpg; path = images/fullsizeart/SBallard12.jpg; sourceTree = "<group>"; };
+		B48B8A4B16CEAF1F005CCD17 /* SBarber.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SBarber.jpg; path = images/fullsizeart/SBarber.jpg; sourceTree = "<group>"; };
+		B48B8A4C16CEAF1F005CCD17 /* SBarber12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SBarber12.jpg; path = images/fullsizeart/SBarber12.jpg; sourceTree = "<group>"; };
+		B48B8A4D16CEAF1F005CCD17 /* SHodson12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SHodson12.jpg; path = images/fullsizeart/SHodson12.jpg; sourceTree = "<group>"; };
+		B48B8A4E16CEAF1F005CCD17 /* SKahan12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SKahan12.jpg; path = images/fullsizeart/SKahan12.jpg; sourceTree = "<group>"; };
+		B48B8A4F16CEAF1F005CCD17 /* SLuchetti12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SLuchetti12.jpg; path = images/fullsizeart/SLuchetti12.jpg; sourceTree = "<group>"; };
+		B48B8A5016CEAF1F005CCD17 /* SNikolic12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SNikolic12.jpg; path = images/fullsizeart/SNikolic12.jpg; sourceTree = "<group>"; };
+		B48B8A5116CEAF1F005CCD17 /* SRosolek12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SRosolek12.jpg; path = images/fullsizeart/SRosolek12.jpg; sourceTree = "<group>"; };
+		B48B8A5216CEAF1F005CCD17 /* SWilliams12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = SWilliams12.jpg; path = images/fullsizeart/SWilliams12.jpg; sourceTree = "<group>"; };
+		B48B8A5316CEAF1F005CCD17 /* TMcbride12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = TMcbride12.jpg; path = images/fullsizeart/TMcbride12.jpg; sourceTree = "<group>"; };
+		B48B8A5416CEAF1F005CCD17 /* TToole12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = TToole12.jpg; path = images/fullsizeart/TToole12.jpg; sourceTree = "<group>"; };
+		B48B8A5516CEAF1F005CCD17 /* TWillamson12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = TWillamson12.jpg; path = images/fullsizeart/TWillamson12.jpg; sourceTree = "<group>"; };
+		B48B8A5616CEAF1F005CCD17 /* WBrewster12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = WBrewster12.jpg; path = images/fullsizeart/WBrewster12.jpg; sourceTree = "<group>"; };
+		B48B8A5716CEAF1F005CCD17 /* WNelson12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = WNelson12.jpg; path = images/fullsizeart/WNelson12.jpg; sourceTree = "<group>"; };
+		B48B8AA916CEAF8E005CCD17 /* Artists.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Artists.plist; path = ArtCards/Artists.plist; sourceTree = "<group>"; };
+		B48B8AAB16CEB9ED005CCD17 /* 06-magnify.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "06-magnify.png"; path = "images/06-magnify.png"; sourceTree = "<group>"; };
+		B48B8AAC16CEB9ED005CCD17 /* 06-magnify@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "06-magnify@2x.png"; path = "images/06-magnify@2x.png"; sourceTree = "<group>"; };
+		B48B8AAD16CEB9ED005CCD17 /* 07-map-marker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "07-map-marker.png"; path = "images/07-map-marker.png"; sourceTree = "<group>"; };
+		B48B8AAE16CEB9ED005CCD17 /* 07-map-marker@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "07-map-marker@2x.png"; path = "images/07-map-marker@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +330,7 @@
 		B43E184F16A9E19A00330DC7 = {
 			isa = PBXGroup;
 			children = (
+				B48B8AA916CEAF8E005CCD17 /* Artists.plist */,
 				B43E186416A9E19A00330DC7 /* ArtCards */,
 				B43E185D16A9E19A00330DC7 /* Frameworks */,
 				B43E185B16A9E19A00330DC7 /* Products */,
@@ -119,25 +361,27 @@
 		B43E186416A9E19A00330DC7 /* ArtCards */ = {
 			isa = PBXGroup;
 			children = (
+				B48B89C416CEAEAD005CCD17 /* images */,
 				B455765C16A9E24500ECFF89 /* SDAppDelegate.h */,
 				B455765D16A9E24500ECFF89 /* SDAppDelegate.m */,
+				B455766616A9E24500ECFF89 /* Artist.h */,
+				B455766716A9E24500ECFF89 /* Artist.m */,
 				B455765E16A9E24500ECFF89 /* ArtistManager.h */,
 				B455765F16A9E24500ECFF89 /* ArtistManager.m */,
+				B48B89BC16CEAB73005CCD17 /* SearchArtistController.h */,
+				B48B89BD16CEAB73005CCD17 /* SearchArtistController.m */,
+				B48B89BE16CEAB73005CCD17 /* SearchArtistController.xib */,
 				B455766016A9E24500ECFF89 /* MapStopsController.h */,
 				B455766116A9E24500ECFF89 /* MapStopsController.m */,
 				B455766216A9E24500ECFF89 /* MapStopsController.xib */,
 				B455766316A9E24500ECFF89 /* MediaController.h */,
 				B455766416A9E24500ECFF89 /* MediaController.m */,
+				B48B89C316CEAE93005CCD17 /* fullart */,
+				B48B89C216CEAE8A005CCD17 /* thumbs */,
 				B455766516A9E24500ECFF89 /* MediaController.xib */,
-				B455766616A9E24500ECFF89 /* Artist.h */,
-				B455766716A9E24500ECFF89 /* Artist.m */,
 				B455766816A9E24500ECFF89 /* ArtCardsController.h */,
 				B455766916A9E24500ECFF89 /* ArtCardsController.m */,
 				B455766A16A9E24500ECFF89 /* ArtCardsController.xib */,
-				B455766B16A9E24500ECFF89 /* first.png */,
-				B455766C16A9E24500ECFF89 /* first@2x.png */,
-				B455766D16A9E24500ECFF89 /* second.png */,
-				B455766E16A9E24500ECFF89 /* second@2x.png */,
 				B43E186516A9E19A00330DC7 /* Supporting Files */,
 			);
 			path = ArtCards;
@@ -155,6 +399,148 @@
 				B43E187416A9E19A00330DC7 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B48B89C216CEAE8A005CCD17 /* thumbs */ = {
+			isa = PBXGroup;
+			children = (
+				B48B89C516CEAF01005CCD17 /* MHodosko12.jpg */,
+				B48B89C616CEAF01005CCD17 /* MPahl12.jpg */,
+				B48B89C716CEAF01005CCD17 /* NBarnes12.jpg */,
+				B48B89C816CEAF01005CCD17 /* NGarcia12.jpg */,
+				B48B89C916CEAF01005CCD17 /* NMedina12.jpg */,
+				B48B89CA16CEAF01005CCD17 /* OLostetter12.jpg */,
+				B48B89CB16CEAF01005CCD17 /* PBlair12.jpg */,
+				B48B89CC16CEAF01005CCD17 /* PFrazier12.jpg */,
+				B48B89CD16CEAF01005CCD17 /* PNarbutovskih12.jpg */,
+				B48B89CE16CEAF01005CCD17 /* PurpleAdobe12.jpg */,
+				B48B89CF16CEAF01005CCD17 /* RBlanchard12.jpg */,
+				B48B89D016CEAF01005CCD17 /* RCox12.jpg */,
+				B48B89D116CEAF01005CCD17 /* RFirestone12.jpg */,
+				B48B89D216CEAF01005CCD17 /* RIR12.jpg */,
+				B48B89D316CEAF01005CCD17 /* RQuintana12.jpg */,
+				B48B89D416CEAF01005CCD17 /* RTrujillo12.jpg */,
+				B48B89D516CEAF01005CCD17 /* RZimmerman12.jpg */,
+				B48B89D616CEAF01005CCD17 /* SBader12.jpg */,
+				B48B89D716CEAF01005CCD17 /* SBallard12.jpg */,
+				B48B89D816CEAF01005CCD17 /* SBarber12.jpg */,
+				B48B89D916CEAF01005CCD17 /* SHodson12.jpg */,
+				B48B89DA16CEAF01005CCD17 /* SKahan12.jpg */,
+				B48B89DB16CEAF01005CCD17 /* SLuchetti12.jpg */,
+				B48B89DC16CEAF01005CCD17 /* SNikolic12.jpg */,
+				B48B89DD16CEAF01005CCD17 /* SRosolek12.jpg */,
+				B48B89DE16CEAF01005CCD17 /* SWilliams12.jpg */,
+				B48B89DF16CEAF01005CCD17 /* TMcbride12.jpg */,
+				B48B89E016CEAF01005CCD17 /* TToole12.jpg */,
+				B48B89E116CEAF01005CCD17 /* TWillamson12.jpg */,
+				B48B89E216CEAF01005CCD17 /* UEHC12.jpg */,
+				B48B89E316CEAF01005CCD17 /* WBrewster12.jpg */,
+				B48B89E416CEAF01005CCD17 /* WNelson12.jpg */,
+			);
+			name = thumbs;
+			sourceTree = "<group>";
+		};
+		B48B89C316CEAE93005CCD17 /* fullart */ = {
+			isa = PBXGroup;
+			children = (
+				B48B8A0516CEAF0D005CCD17 /* bdbondy12.jpg */,
+				B48B8A0716CEAF1F005CCD17 /* AArcher12.jpg */,
+				B48B8A0816CEAF1F005CCD17 /* ABader12.jpg */,
+				B48B8A0916CEAF1F005CCD17 /* ALopez12.jpg */,
+				B48B8A0A16CEAF1F005CCD17 /* ALostetter12.jpg */,
+				B48B8A0B16CEAF1F005CCD17 /* ALumaghi12.jpg */,
+				B48B8A0C16CEAF1F005CCD17 /* AMagai12.jpg */,
+				B48B8A0E16CEAF1F005CCD17 /* BEnoch12.jpg */,
+				B48B8A0F16CEAF1F005CCD17 /* BFerguson12.jpg */,
+				B48B8A1016CEAF1F005CCD17 /* BManzanares12.jpg */,
+				B48B8A1116CEAF1F005CCD17 /* BosshardGallery12.jpg */,
+				B48B8A1216CEAF1F005CCD17 /* BPage12.jpg */,
+				B48B8A1316CEAF1F005CCD17 /* BSturge12.jpg */,
+				B48B8A1416CEAF1F005CCD17 /* CBondy12.jpg */,
+				B48B8A1516CEAF1F005CCD17 /* CBurns12.jpg */,
+				B48B8A1616CEAF1F005CCD17 /* DBlackmore12.jpg */,
+				B48B8A1716CEAF1F005CCD17 /* DDarrow12.jpg */,
+				B48B8A1816CEAF1F005CCD17 /* DFritz12.jpg */,
+				B48B8A1916CEAF1F005CCD17 /* DHarris12.jpg */,
+				B48B8A1A16CEAF1F005CCD17 /* DHiggs12.jpg */,
+				B48B8A1B16CEAF1F005CCD17 /* DLumaghi12.jpg */,
+				B48B8A1C16CEAF1F005CCD17 /* DSaunders12.jpg */,
+				B48B8A1D16CEAF1F005CCD17 /* FShelton12.jpg */,
+				B48B8A1E16CEAF1F005CCD17 /* GCisneros12.jpg */,
+				B48B8A1F16CEAF1F005CCD17 /* GLegato12.jpg */,
+				B48B8A2016CEAF1F005CCD17 /* GMorris12.jpg */,
+				B48B8A2116CEAF1F005CCD17 /* HLorenz12b.jpg */,
+				B48B8A2216CEAF1F005CCD17 /* IAlaridPease12.jpg */,
+				B48B8A2316CEAF1F005CCD17 /* IMaestas12.jpg */,
+				B48B8A2416CEAF1F005CCD17 /* JBrookshier12.jpg */,
+				B48B8A2516CEAF1F005CCD17 /* JBuros12.jpg */,
+				B48B8A2616CEAF1F005CCD17 /* JFranco12.jpg */,
+				B48B8A2716CEAF1F005CCD17 /* JGough12.jpg */,
+				B48B8A2816CEAF1F005CCD17 /* JLutz12.jpg */,
+				B48B8A2916CEAF1F005CCD17 /* JMallegni12.jpg */,
+				B48B8A2A16CEAF1F005CCD17 /* JReeve12.jpg */,
+				B48B8A2B16CEAF1F005CCD17 /* JRivera12.jpg */,
+				B48B8A2C16CEAF1F005CCD17 /* JSuris12.jpg */,
+				B48B8A2D16CEAF1F005CCD17 /* JZalenski12.jpg */,
+				B48B8A2E16CEAF1F005CCD17 /* KBlanchard12.jpg */,
+				B48B8A2F16CEAF1F005CCD17 /* KLostetter12.jpg */,
+				B48B8A3016CEAF1F005CCD17 /* KOrtiz12.jpg */,
+				B48B8A3116CEAF1F005CCD17 /* LBaybayan12.jpg */,
+				B48B8A3216CEAF1F005CCD17 /* LGarcia12.jpg */,
+				B48B8A3316CEAF1F005CCD17 /* LMartinez12.jpg */,
+				B48B8A3416CEAF1F005CCD17 /* magai.jpg */,
+				B48B8A3516CEAF1F005CCD17 /* MChudnoff12.jpg */,
+				B48B8A3616CEAF1F005CCD17 /* MDMaestas12b.jpg */,
+				B48B8A3716CEAF1F005CCD17 /* MFranco12.jpg */,
+				B48B8A3816CEAF1F005CCD17 /* MHodosko12.jpg */,
+				B48B8A3916CEAF1F005CCD17 /* MPahl12.jpg */,
+				B48B8A3A16CEAF1F005CCD17 /* NBarnes12.jpg */,
+				B48B8A3B16CEAF1F005CCD17 /* NGarcia12.jpg */,
+				B48B8A3C16CEAF1F005CCD17 /* NMedina12.jpg */,
+				B48B8A3D16CEAF1F005CCD17 /* OLostetter12.jpg */,
+				B48B8A3E16CEAF1F005CCD17 /* PBlair12.jpg */,
+				B48B8A3F16CEAF1F005CCD17 /* PFrazier12.jpg */,
+				B48B8A4016CEAF1F005CCD17 /* PNarbutovskih12.jpg */,
+				B48B8A4116CEAF1F005CCD17 /* PurpleAdobe12.jpg */,
+				B48B8A4216CEAF1F005CCD17 /* RBlanchard12.jpg */,
+				B48B8A4316CEAF1F005CCD17 /* RCox12.jpg */,
+				B48B8A4416CEAF1F005CCD17 /* RFirestone12.jpg */,
+				B48B8A4516CEAF1F005CCD17 /* RIR12.jpg */,
+				B48B8A4616CEAF1F005CCD17 /* RQuintana12.jpg */,
+				B48B8A4716CEAF1F005CCD17 /* RTrujillo12.jpg */,
+				B48B8A4816CEAF1F005CCD17 /* RZimmerman12.jpg */,
+				B48B8A4916CEAF1F005CCD17 /* SBader12.jpg */,
+				B48B8A4A16CEAF1F005CCD17 /* SBallard12.jpg */,
+				B48B8A4B16CEAF1F005CCD17 /* SBarber.jpg */,
+				B48B8A4C16CEAF1F005CCD17 /* SBarber12.jpg */,
+				B48B8A4D16CEAF1F005CCD17 /* SHodson12.jpg */,
+				B48B8A4E16CEAF1F005CCD17 /* SKahan12.jpg */,
+				B48B8A4F16CEAF1F005CCD17 /* SLuchetti12.jpg */,
+				B48B8A5016CEAF1F005CCD17 /* SNikolic12.jpg */,
+				B48B8A5116CEAF1F005CCD17 /* SRosolek12.jpg */,
+				B48B8A5216CEAF1F005CCD17 /* SWilliams12.jpg */,
+				B48B8A5316CEAF1F005CCD17 /* TMcbride12.jpg */,
+				B48B8A5416CEAF1F005CCD17 /* TToole12.jpg */,
+				B48B8A5516CEAF1F005CCD17 /* TWillamson12.jpg */,
+				B48B8A5616CEAF1F005CCD17 /* WBrewster12.jpg */,
+				B48B8A5716CEAF1F005CCD17 /* WNelson12.jpg */,
+			);
+			name = fullart;
+			sourceTree = "<group>";
+		};
+		B48B89C416CEAEAD005CCD17 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				B455766B16A9E24500ECFF89 /* first.png */,
+				B455766C16A9E24500ECFF89 /* first@2x.png */,
+				B455766D16A9E24500ECFF89 /* second.png */,
+				B455766E16A9E24500ECFF89 /* second@2x.png */,
+				B48B8AAB16CEB9ED005CCD17 /* 06-magnify.png */,
+				B48B8AAC16CEB9ED005CCD17 /* 06-magnify@2x.png */,
+				B48B8AAD16CEB9ED005CCD17 /* 07-map-marker.png */,
+				B48B8AAE16CEB9ED005CCD17 /* 07-map-marker@2x.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,6 +606,125 @@
 				B455767916A9E24500ECFF89 /* first@2x.png in Resources */,
 				B455767A16A9E24500ECFF89 /* second.png in Resources */,
 				B455767B16A9E24500ECFF89 /* second@2x.png in Resources */,
+				B48B89C016CEAB73005CCD17 /* SearchArtistController.xib in Resources */,
+				B48B89E516CEAF01005CCD17 /* MHodosko12.jpg in Resources */,
+				B48B89E616CEAF01005CCD17 /* MPahl12.jpg in Resources */,
+				B48B89E716CEAF01005CCD17 /* NBarnes12.jpg in Resources */,
+				B48B89E816CEAF01005CCD17 /* NGarcia12.jpg in Resources */,
+				B48B89E916CEAF01005CCD17 /* NMedina12.jpg in Resources */,
+				B48B89EA16CEAF01005CCD17 /* OLostetter12.jpg in Resources */,
+				B48B89EB16CEAF01005CCD17 /* PBlair12.jpg in Resources */,
+				B48B89EC16CEAF01005CCD17 /* PFrazier12.jpg in Resources */,
+				B48B89ED16CEAF01005CCD17 /* PNarbutovskih12.jpg in Resources */,
+				B48B89EE16CEAF01005CCD17 /* PurpleAdobe12.jpg in Resources */,
+				B48B89EF16CEAF01005CCD17 /* RBlanchard12.jpg in Resources */,
+				B48B89F016CEAF01005CCD17 /* RCox12.jpg in Resources */,
+				B48B89F116CEAF01005CCD17 /* RFirestone12.jpg in Resources */,
+				B48B89F216CEAF01005CCD17 /* RIR12.jpg in Resources */,
+				B48B89F316CEAF01005CCD17 /* RQuintana12.jpg in Resources */,
+				B48B89F416CEAF01005CCD17 /* RTrujillo12.jpg in Resources */,
+				B48B89F516CEAF01005CCD17 /* RZimmerman12.jpg in Resources */,
+				B48B89F616CEAF01005CCD17 /* SBader12.jpg in Resources */,
+				B48B89F716CEAF01005CCD17 /* SBallard12.jpg in Resources */,
+				B48B89F816CEAF01005CCD17 /* SBarber12.jpg in Resources */,
+				B48B89F916CEAF01005CCD17 /* SHodson12.jpg in Resources */,
+				B48B89FA16CEAF01005CCD17 /* SKahan12.jpg in Resources */,
+				B48B89FB16CEAF01005CCD17 /* SLuchetti12.jpg in Resources */,
+				B48B89FC16CEAF01005CCD17 /* SNikolic12.jpg in Resources */,
+				B48B89FD16CEAF01005CCD17 /* SRosolek12.jpg in Resources */,
+				B48B89FE16CEAF01005CCD17 /* SWilliams12.jpg in Resources */,
+				B48B89FF16CEAF01005CCD17 /* TMcbride12.jpg in Resources */,
+				B48B8A0016CEAF01005CCD17 /* TToole12.jpg in Resources */,
+				B48B8A0116CEAF01005CCD17 /* TWillamson12.jpg in Resources */,
+				B48B8A0216CEAF01005CCD17 /* UEHC12.jpg in Resources */,
+				B48B8A0316CEAF01005CCD17 /* WBrewster12.jpg in Resources */,
+				B48B8A0416CEAF01005CCD17 /* WNelson12.jpg in Resources */,
+				B48B8A0616CEAF0D005CCD17 /* bdbondy12.jpg in Resources */,
+				B48B8A5816CEAF1F005CCD17 /* AArcher12.jpg in Resources */,
+				B48B8A5916CEAF1F005CCD17 /* ABader12.jpg in Resources */,
+				B48B8A5A16CEAF1F005CCD17 /* ALopez12.jpg in Resources */,
+				B48B8A5B16CEAF1F005CCD17 /* ALostetter12.jpg in Resources */,
+				B48B8A5C16CEAF1F005CCD17 /* ALumaghi12.jpg in Resources */,
+				B48B8A5D16CEAF1F005CCD17 /* AMagai12.jpg in Resources */,
+				B48B8A5F16CEAF1F005CCD17 /* BEnoch12.jpg in Resources */,
+				B48B8A6016CEAF1F005CCD17 /* BFerguson12.jpg in Resources */,
+				B48B8A6116CEAF1F005CCD17 /* BManzanares12.jpg in Resources */,
+				B48B8A6216CEAF1F005CCD17 /* BosshardGallery12.jpg in Resources */,
+				B48B8A6316CEAF1F005CCD17 /* BPage12.jpg in Resources */,
+				B48B8A6416CEAF1F005CCD17 /* BSturge12.jpg in Resources */,
+				B48B8A6516CEAF1F005CCD17 /* CBondy12.jpg in Resources */,
+				B48B8A6616CEAF1F005CCD17 /* CBurns12.jpg in Resources */,
+				B48B8A6716CEAF1F005CCD17 /* DBlackmore12.jpg in Resources */,
+				B48B8A6816CEAF1F005CCD17 /* DDarrow12.jpg in Resources */,
+				B48B8A6916CEAF1F005CCD17 /* DFritz12.jpg in Resources */,
+				B48B8A6A16CEAF1F005CCD17 /* DHarris12.jpg in Resources */,
+				B48B8A6B16CEAF1F005CCD17 /* DHiggs12.jpg in Resources */,
+				B48B8A6C16CEAF1F005CCD17 /* DLumaghi12.jpg in Resources */,
+				B48B8A6D16CEAF1F005CCD17 /* DSaunders12.jpg in Resources */,
+				B48B8A6E16CEAF1F005CCD17 /* FShelton12.jpg in Resources */,
+				B48B8A6F16CEAF1F005CCD17 /* GCisneros12.jpg in Resources */,
+				B48B8A7016CEAF1F005CCD17 /* GLegato12.jpg in Resources */,
+				B48B8A7116CEAF1F005CCD17 /* GMorris12.jpg in Resources */,
+				B48B8A7216CEAF1F005CCD17 /* HLorenz12b.jpg in Resources */,
+				B48B8A7316CEAF1F005CCD17 /* IAlaridPease12.jpg in Resources */,
+				B48B8A7416CEAF1F005CCD17 /* IMaestas12.jpg in Resources */,
+				B48B8A7516CEAF1F005CCD17 /* JBrookshier12.jpg in Resources */,
+				B48B8A7616CEAF1F005CCD17 /* JBuros12.jpg in Resources */,
+				B48B8A7716CEAF1F005CCD17 /* JFranco12.jpg in Resources */,
+				B48B8A7816CEAF1F005CCD17 /* JGough12.jpg in Resources */,
+				B48B8A7916CEAF1F005CCD17 /* JLutz12.jpg in Resources */,
+				B48B8A7A16CEAF1F005CCD17 /* JMallegni12.jpg in Resources */,
+				B48B8A7B16CEAF1F005CCD17 /* JReeve12.jpg in Resources */,
+				B48B8A7C16CEAF1F005CCD17 /* JRivera12.jpg in Resources */,
+				B48B8A7D16CEAF1F005CCD17 /* JSuris12.jpg in Resources */,
+				B48B8A7E16CEAF1F005CCD17 /* JZalenski12.jpg in Resources */,
+				B48B8A7F16CEAF1F005CCD17 /* KBlanchard12.jpg in Resources */,
+				B48B8A8016CEAF1F005CCD17 /* KLostetter12.jpg in Resources */,
+				B48B8A8116CEAF1F005CCD17 /* KOrtiz12.jpg in Resources */,
+				B48B8A8216CEAF1F005CCD17 /* LBaybayan12.jpg in Resources */,
+				B48B8A8316CEAF1F005CCD17 /* LGarcia12.jpg in Resources */,
+				B48B8A8416CEAF1F005CCD17 /* LMartinez12.jpg in Resources */,
+				B48B8A8516CEAF1F005CCD17 /* magai.jpg in Resources */,
+				B48B8A8616CEAF1F005CCD17 /* MChudnoff12.jpg in Resources */,
+				B48B8A8716CEAF1F005CCD17 /* MDMaestas12b.jpg in Resources */,
+				B48B8A8816CEAF1F005CCD17 /* MFranco12.jpg in Resources */,
+				B48B8A8916CEAF1F005CCD17 /* MHodosko12.jpg in Resources */,
+				B48B8A8A16CEAF1F005CCD17 /* MPahl12.jpg in Resources */,
+				B48B8A8B16CEAF1F005CCD17 /* NBarnes12.jpg in Resources */,
+				B48B8A8C16CEAF1F005CCD17 /* NGarcia12.jpg in Resources */,
+				B48B8A8D16CEAF1F005CCD17 /* NMedina12.jpg in Resources */,
+				B48B8A8E16CEAF1F005CCD17 /* OLostetter12.jpg in Resources */,
+				B48B8A8F16CEAF1F005CCD17 /* PBlair12.jpg in Resources */,
+				B48B8A9016CEAF1F005CCD17 /* PFrazier12.jpg in Resources */,
+				B48B8A9116CEAF1F005CCD17 /* PNarbutovskih12.jpg in Resources */,
+				B48B8A9216CEAF1F005CCD17 /* PurpleAdobe12.jpg in Resources */,
+				B48B8A9316CEAF1F005CCD17 /* RBlanchard12.jpg in Resources */,
+				B48B8A9416CEAF1F005CCD17 /* RCox12.jpg in Resources */,
+				B48B8A9516CEAF20005CCD17 /* RFirestone12.jpg in Resources */,
+				B48B8A9616CEAF20005CCD17 /* RIR12.jpg in Resources */,
+				B48B8A9716CEAF20005CCD17 /* RQuintana12.jpg in Resources */,
+				B48B8A9816CEAF20005CCD17 /* RTrujillo12.jpg in Resources */,
+				B48B8A9916CEAF20005CCD17 /* RZimmerman12.jpg in Resources */,
+				B48B8A9A16CEAF20005CCD17 /* SBader12.jpg in Resources */,
+				B48B8A9B16CEAF20005CCD17 /* SBallard12.jpg in Resources */,
+				B48B8A9C16CEAF20005CCD17 /* SBarber.jpg in Resources */,
+				B48B8A9D16CEAF20005CCD17 /* SBarber12.jpg in Resources */,
+				B48B8A9E16CEAF20005CCD17 /* SHodson12.jpg in Resources */,
+				B48B8A9F16CEAF20005CCD17 /* SKahan12.jpg in Resources */,
+				B48B8AA016CEAF20005CCD17 /* SLuchetti12.jpg in Resources */,
+				B48B8AA116CEAF20005CCD17 /* SNikolic12.jpg in Resources */,
+				B48B8AA216CEAF20005CCD17 /* SRosolek12.jpg in Resources */,
+				B48B8AA316CEAF20005CCD17 /* SWilliams12.jpg in Resources */,
+				B48B8AA416CEAF20005CCD17 /* TMcbride12.jpg in Resources */,
+				B48B8AA516CEAF20005CCD17 /* TToole12.jpg in Resources */,
+				B48B8AA616CEAF20005CCD17 /* TWillamson12.jpg in Resources */,
+				B48B8AA716CEAF20005CCD17 /* WBrewster12.jpg in Resources */,
+				B48B8AA816CEAF20005CCD17 /* WNelson12.jpg in Resources */,
+				B48B8AAA16CEAF8E005CCD17 /* Artists.plist in Resources */,
+				B48B8AAF16CEB9ED005CCD17 /* 06-magnify.png in Resources */,
+				B48B8AB016CEB9ED005CCD17 /* 06-magnify@2x.png in Resources */,
+				B48B8AB116CEB9ED005CCD17 /* 07-map-marker.png in Resources */,
+				B48B8AB216CEB9ED005CCD17 /* 07-map-marker@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -237,6 +742,7 @@
 				B455767316A9E24500ECFF89 /* MediaController.m in Sources */,
 				B455767516A9E24500ECFF89 /* Artist.m in Sources */,
 				B455767616A9E24500ECFF89 /* ArtCardsController.m in Sources */,
+				B48B89BF16CEAB73005CCD17 /* SearchArtistController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

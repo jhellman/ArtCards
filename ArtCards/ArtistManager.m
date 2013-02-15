@@ -25,14 +25,20 @@
 }
 
 - (void)loadArtists {
-	NSString *path = [[NSBundle mainBundle] pathForResource:@"Artists" ofType:@"xml"];
+	NSString *path = [[NSBundle mainBundle] pathForResource:@"Artists" ofType:@"plist"];
 	NSData *d = [NSData dataWithContentsOfFile:path];
 	
 	if (d) {
 	NSError *e = nil;
-	NSDictionary *dict = [NSJSONSerialization JSONObjectWithData:d options:NSJSONReadingMutableContainers error:&e];
+		NSPropertyListFormat format;
+	NSDictionary *dict = [NSPropertyListSerialization propertyListWithData:d options:NSPropertyListImmutable format:&format error:&e];
 	
-	_artists = [dict valueForKey:@"artists"];
+		_artists = [[NSMutableArray alloc] init];
+		NSArray *artistAsPlist =  (NSArray *)dict; // [dict valueForKey:@"artists"];
+		for (NSDictionary *d in artistAsPlist) {
+			Artist *artist = [Artist artistWithDictionary:d];
+			if (artist) [_artists addObject:artist];
+		}
 	} else {
 		_artists = [[NSMutableArray alloc] init];
 		
